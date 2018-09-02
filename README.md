@@ -36,3 +36,5 @@ A web application that allows the user to research and watch videos.
    
 # Language management example
 ![language](http://g.recordit.co/ISeWi5xEqZ.gif)
+# Authorization via Google+
+![google](
