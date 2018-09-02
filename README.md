@@ -39,6 +39,6 @@ A web application that allows the user to research and watch videos.
 # Authorization via Google+
 ![google](http://g.recordit.co/KVtmWZqOvq.gif)
 # Simple film search
-![search](http://g.recordit.co/HiRLRiEZWc.gif)
+![search](http://g.recordit.co/xHBNPDLHru.gif)
 # Film page example
 ![film-page](/readme/screen.png)
