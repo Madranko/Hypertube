@@ -42,3 +42,5 @@ A web application that allows the user to research and watch videos.
 ![search](http://g.recordit.co/27X32cVNQN.gif)
 # Film page example
 ![film-page](/readme/screen.png)
+# Video streaming
+![stream](/readme/movie.gif)
