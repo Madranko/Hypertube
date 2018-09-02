@@ -40,3 +40,5 @@ A web application that allows the user to research and watch videos.
 ![google](http://g.recordit.co/KVtmWZqOvq.gif)
 # Simple film search
 ![search](http://g.recordit.co/HiRLRiEZWc.gif)
+# Film page example
+![film-page](/readme/screen.png)
