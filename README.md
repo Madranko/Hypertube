@@ -2,7 +2,8 @@
 A web application that allows the user to research and watch videos.
 ### Code
 1. Front-end: ReactJS<br/>
-2. Back-end: PHP/Slim<br/>
+2. Back-end: PHP/Laravel<br/>
+3. Video streaming: NodeJS<br/>
 ### Realization<br/>
 #### User part<br/>
    • The app is allow a user to register asking at least an email address, a username,
@@ -32,3 +33,6 @@ A web application that allows the user to research and watch videos.
    be erased.<br/>
    If subtitles are available for this video, they will be downloaded and
    available for the video player.<br/>
+   
+# Language management example
+![language](http://g.recordit.co/ISeWi5xEqZ.gif)
